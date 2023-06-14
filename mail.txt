@@ -1,5 +1,5 @@
 Etape 1 :
-Ouvrir les mails en tant qu'Administrateur ce qui ouvrir avec les mails de l'admin
+Ouvrir les mails en tant qu Administrateur ce qui ouvrir avec les mails de ladmin
 
 
 Etape 2 : 
